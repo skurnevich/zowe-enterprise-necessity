@@ -1,1 +1,1 @@
-# zowe-enterprise-necessity
+Zowe Enterprise Necessity is an Electron-based tool that provides a simpler UI to install and configure Zowe
